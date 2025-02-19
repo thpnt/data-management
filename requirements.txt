@@ -1,0 +1,12 @@
+pandas
+google-cloud-bigquery
+google-cloud-run
+google-cloud-storage
+google-auth-oauthlib
+db-dtypes
+setuptools
+python-dotenv
+requests
+pandas_gbq
+fastapi
+uvicorn
